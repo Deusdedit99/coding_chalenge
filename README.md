@@ -6,4 +6,4 @@
 
 ## 💾 Como está organizado este repositório?
 
-![Organização deste repositório](https://www.canva.com/design/DAFouPJ4bqY/lMzr389TpJ0BTZNlF8y1rw/edit?utm_content=DAFouPJ4bqY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Organização deste repositório](coding_chalenge.png)
